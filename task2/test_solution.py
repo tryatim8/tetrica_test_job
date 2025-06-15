@@ -14,7 +14,7 @@ from task2.solution import (
 )
 
 
-class TestFirstTask(unittest.TestCase):
+class TestSecondTask(unittest.TestCase):
     """Тест программы скраппинга русских названий животных википедии."""
 
     @classmethod
